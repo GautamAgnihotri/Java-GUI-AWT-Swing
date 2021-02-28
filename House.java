@@ -77,11 +77,6 @@ public class House extends Frame {
         g.fillArc(310, 283, 50, 50, 0, 360);
         g.fillArc(275, 283, 50, 50, 0, 360);
         g.fillArc(330, 270, 60, 60, 0, 360);
-
-
-        
-     
-
     }
     public static void main(String[] args) {
         House h = new House();
